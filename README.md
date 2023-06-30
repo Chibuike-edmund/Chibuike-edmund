@@ -41,7 +41,8 @@ I have worked on a variety of projects throughout my career, ranging from web ap
 
 Here are a few notable projects I have worked on:
 
-- [Project Name](https://github.com/yourusername/project-name): Brief description of the project and its key features.
+- [Minimal Web API]([https://github.com/Chibuike-edmund/Minimal-Web-API]):
+This is a minimal template for creating a Web API using C# in .NET 6/7. It provides a starting point for building lightweight and efficient APIs.
 
 - [Project Name](https://github.com/yourusername/project-name): Brief description of the project and its key features.
 
