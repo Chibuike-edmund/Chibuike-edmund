@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I am a passionate software developer with expertis
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chibuike-edmund&theme=dark" alt="GitHub Contribution Streak" />
 </p>
+
 ##  🔭 Skills and Technologies
 
 - Programming Languages: C#, Python
