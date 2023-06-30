@@ -68,4 +68,4 @@ Thank you for visiting my profile, and I look forward to connecting with you!
 
 MIT License
 
-[ Precious Edmund]
+Precious Edmund
