@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a passionate software developer with expertis
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chibuike-edmund&theme=dark" alt="GitHub Contribution Streak" />
 </p>
-## 🔭 Skills and Technologies
+##  🔭 Skills and Technologies
 
 - Programming Languages: C#, Python
 - Frameworks: .NET, Django
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a passionate software developer with expertis
 - Databases: SQL, NoSQL
 - CI/CD: Jenkins, GitHub Actions
 
-## 🌱 Currently Learning
+##  🌱 Currently Learning
 
 I believe in continuous learning and staying up to date with the latest technologies. Currently, I am focusing on the following areas:
 
