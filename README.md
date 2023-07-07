@@ -1,25 +1,32 @@
 <div class="card">
-            <p class="name">Precious Edmund </p>
-            <p class="contact">
-                <i class="fab fa-twitter"></i>
-                <a href="https://www.twitter.com/" target="_blank">@PreshyEdmund</a>
-            </p>
-            <p class="about">Welcome to my GitHub profile! I am a passionate software developer with expertise in C#, .NET, Python, and the Django framework. I also have extensive knowledge and experience in cloud engineering with Azure and AWS, as well as containerization technologies like Docker and orchestration tools like Kubernetes and Terraform. I enjoy building scalable and robust applications that leverage the power of cloud services.</p>
-            <div class="resources">
-                <p>3 Useful Dev Resources</p>
-                <ul>
-                    <li>
-                        <a href="https://github.com/microsoft/bash-for-beginners" target="_blank" title="Bash for Beginners">Bash for Beginners</a>
-                    </li>
-                    <li>
-                        <a href="https://learn.microsoft.com/en-us/azure/cloud-shell/quickstart?wt.mc_id=1reg_S-1076_webpage_reactor&tabs=azurecli" target="_Quickstart for Azure Cloud Shell" title="Quickstart for Azure Cloud Shell">Quickstart for Azure Cloud Shell</a>
-                    </li>
-                    <li>
-                        <a href="https://learn.microsoft.com/en-us/cli/azure/azure-cli-learn-bash?wt.mc_id=1reg_S-1076_webpage_reactor" target="_Learn to use Bash with the Azure CLI" title="Learn to use Bash with the Azure CLI">Learn to use Bash with the Azure CLI</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
+
+            
+  ## Hello, Precious Edmund here 👍
+            
+  <p class="contact">
+    <i class="fab fa-twitter"></i>
+    <a href="https://www.twitter.com/" target="_blank">@PreshyEdmund</a>
+  </p>
+  <p class="about">I am a passionate software developer with expertise in C#, .NET, Python, and the Django framework. I also have extensive knowledge and experience in cloud</p>
+  <div class="resources">
+    <p>3 Useful Dev Resources</p>
+    <ul>
+      <li>
+        <a href="https://github.com/microsoft/bash-for-beginners" target="_blank" title="Bash for Beginners">Bash for Beginners</a>
+      </li>
+      <li>
+        <a href="https://learn.microsoft.com/en-us/azure/cloud-shell/quickstart?wt.mc_id=1reg_S-1076_webpage_reactor&tabs=azurecli" target="_blank" title="Quickstart for Azure Cloud Shell">Quickstart for Azure Cloud Shell</a>
+      </li>
+      <li>
+        <a href="https://learn.microsoft.com/en-us/cli/azure/azure-cli-learn-bash?wt.mc_id=1reg_S-1076_webpage_reactor" target="_blank" title="Learn to use Bash with the Azure CLI">Learn to use Bash with the Azure CLI</a>
+      </li>
+    </ul>
+  </div>
+  <a href="https://twitter.com/" class="twitter-button" target="_blank">
+    <i class="fab fa-twitter"></i>
+    Follow me on Twitter
+  </a>
+</div>
 
 ##  🚀 GitHub Contribution Streak
 
@@ -88,3 +95,6 @@ Thank you for visiting my profile, and I look forward to connecting with you!
 MIT License
 
 Precious Edmund
+
+
+
