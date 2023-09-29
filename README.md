@@ -66,10 +66,10 @@ I have worked on a variety of projects throughout my career, ranging from web ap
 
 Here are a few notable projects I have worked on:
 
-- [Minimal Web API]([https://github.com/Chibuike-edmund/Minimal-Web-API]):
+- [Minimal Web API](https://github.com/Chibuike-edmund/Minimal-Web-API):
 This is a minimal template for creating a Web API using C# in .NET 6/7. It provides a starting point for building lightweight and efficient APIs.
 
-- [Project Name](https://github.com/yourusername/project-name): Brief description of the project and its key features.
+- [Precious Edmund Blog](https://github.com/Chibuike-edmund/PreciousEdmundBlog): This is a Blog Web App built using Python Django framework with user authentication. The project idea was inspired by Corey Schafer's Python videos, which provided valuable insights into Django development.
 
 - [Project Name](https://github.com/yourusername/project-name): Brief description of the project and its key features.
 
@@ -85,7 +85,7 @@ Feel free to explore my repositories to get a better understanding of the work I
 
 I am always open to collaboration and new opportunities. You can reach me through the following channels:
 
-- Email: [chidera1915@gmail.com](mailto:your.email@example.com)
+- Email: [chidera1915@gmail.com](mailto:chidera1915@gmail.com)
 - LinkedIn: [Precious Edmund](https://www.linkedin.com/in/precious-edmund/)
 
 Don't hesitate to connect with me if you have any questions or if you'd like to discuss potential projects or collaborations.
