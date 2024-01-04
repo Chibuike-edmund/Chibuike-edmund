@@ -71,7 +71,7 @@ This is a minimal template for creating a Web API using C# in .NET 6/7. It provi
 
 - [Precious Edmund Blog](https://github.com/Chibuike-edmund/PreciousEdmundBlog): This is a Blog Web App built using Python Django framework with user authentication. The project idea was inspired by Corey Schafer's Python videos, which provided valuable insights into Django development.
 
-- [Project Name](https://github.com/yourusername/project-name): Brief description of the project and its key features.
+- [Flask Password Generator](https://github.com/Chibuike-edmund/Password_Genie): This Flask application provides a user-friendly interface to generate secure passwords. Users can specify the desired length of the password and receive a randomly generated password with a mix of letters, numbers, and symbols.
 
 Feel free to explore my repositories to get a better understanding of the work I have done.
 
